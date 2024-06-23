@@ -12,3 +12,8 @@ target/
 
 .gradle/
 .DS_Store
+
+######
+/data2.txt
+temp.tmp
+logs/
